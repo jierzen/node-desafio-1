@@ -69,9 +69,9 @@ if(operacion === 'leer'){
 ```
 
 #### Ejecuciones desde la terminal:
-```
-node index.js registrar cachupin "2 años" perro blanco vomitos
-node index.js registrar zoroastro "9 años" gato "cafe con manchas blancas" diarrea
+```console
+$ node index.js registrar cachupin "2 años" perro blanco vomitos
+$ node index.js registrar zoroastro "9 años" gato "cafe con manchas blancas" diarrea
 
 ```
 
