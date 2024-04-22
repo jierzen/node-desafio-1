@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "cachupin",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "zoroastro",
+    "edad": "9 años",
+    "tipo": "gato",
+    "color": "cafe con manchas blancas",
+    "enfermedad": "diarrea"
+  }
+]
