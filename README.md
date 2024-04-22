@@ -1,7 +1,7 @@
 # Veterinaria JS
 ### Desafio 1 modulo Node [Desafio LATAM]
 
-### Tecnologias usadas
+### Se cumple con:
 1. Ejecutar scripts con Node Js desde la terminal 
 2. Crear y Leer archivos con el módulo File System
 3. Importar y exportar módulos en Node Js
